@@ -1,0 +1,8 @@
+cryptography
+fastapi
+msal
+pydantic
+pytest
+python-dotenv
+requests
+uvicorn
